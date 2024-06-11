@@ -171,7 +171,11 @@ This repository consist of the difference dev extensins that I use daily.
     - **Use Case**: Adds support for Jinja templating language.
 
 43. **zhuangtongfa.material-theme**:
+
     - **Use Case**: A Material Design theme for VS Code, enhancing visual aesthetics.
+
+44. **VSCode TSV**:
+    - **Use Case**: Provides support for TSV (Tab-Separated Values) files.
 
 ### To Export extensions
 
